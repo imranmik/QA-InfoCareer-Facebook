@@ -10,7 +10,7 @@
 	</properties>
 	<dependencies>
 
-		<!--- Webhook is triggerd --->
+		<!---- Webhook is triggerd ---->
 
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
