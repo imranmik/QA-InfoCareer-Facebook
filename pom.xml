@@ -5,6 +5,7 @@
 	<groupId>com.jenkins.selenium</groupId>
 	<artifactId>Jenkinsrun</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
